@@ -81,27 +81,27 @@ The dataset required preprocessing before analysis:
 
 **Survival Rate by Sex**
 
-![survival by sex](outputs/survival_by_sex.png)
+![survival-by-sex](outputs/survival_by_sex.png)
 
 **Survival by Class and Sex**
 
-![survival by class and sex](outputs/survival_class_sex.png)
+![survival-by-class-and-sex](outputs/survival_class_sex.png)
 
 **Age Distribution**
 
-![age distribution](outputs/age_distribution.png)
+![age-distribution](outputs/age_distribution.png)
 
 **Fare Distribution**
 
-![fare distribution](outputs/fare_distribution.png)
+![fare-distribution](outputs/fare_distribution.png)
 
 **Fare by Class**
 
-![fare by class](outputs/fare_by_class.png)
+![fare-by-class](outputs/fare_by_class.png)
 
 **Age vs Fare Scatter Plot**
 
-![scatter survival](outputs/scatter_survival.png)
+![scatter-survival](outputs/scatter_survival.png)
 
 ---
 
