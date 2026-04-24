@@ -81,7 +81,7 @@ The dataset required preprocessing before analysis:
 
  Survival Rate by Sex
 
-![Survival by Sex](images/survival_by_sex.png)
+![Survival by Class and Sex](outputs/survival_class_sex.png)
 
  Survival by Passenger Class
 
