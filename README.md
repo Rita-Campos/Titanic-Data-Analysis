@@ -88,6 +88,13 @@ The dataset required preprocessing before analysis:
  Fare Distribution
 
  Age vs Fare (Scatter Plot)
+ 
+![Survival by Sex](outputs/survival_by_sex.png)
+![Survival by Class and Sex](outputs/survival_class_sex.png)
+![Age Distribution](outputs/age_distribution.png)
+![Fare Distribution](outputs/fare_distribution.png)
+![Fare by Class](outputs/fare_by_class.png)
+![Scatter Survival](outputs/scatter_survival.png)
 
 ---
 
