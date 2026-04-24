@@ -101,26 +101,23 @@ The dataset required preprocessing before analysis:
   * Visual elements embedded into the report
 
 ---
+Project Structure
 
- 📁 Project Structure
-
+```
 titanic-data-analysis/
-│
 ├── data/
 │   └── Titanic-Dataset.csv
-│
 ├── notebooks/
 │   └── My_Data_Analysis_Project.ipynb
-│
 ├── outputs/
 │   ├── titanic_clean.csv
-│   └── titanic_report_v2.xlsx
+│   ├── titanic_report_v2.xlsx
 │   ├── survival_by_sex.png
-│   ├── survival_by_class.png
+│   ├── survival_class_sex.png
 │   ├── fare_distribution.png
-│   ├── scatter_plot.png
-│
+│   └── scatter_survival.png
 └── README.md
+```
 
 
 ---
