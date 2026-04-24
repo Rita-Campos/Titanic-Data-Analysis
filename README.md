@@ -81,23 +81,13 @@ The dataset required preprocessing before analysis:
 
  Survival Rate by Sex
 
-![Survival by Class and Sex](outputs/survival_class_sex.png)
-
  Survival by Passenger Class
-
-![Survival by Class](images/survival_by_class.png)
 
  Age Distribution (Survived vs Not Survived)
 
-![Age Distribution](images/age_distribution.png)
-
  Fare Distribution
 
-![Fare Distribution](images/fare_distribution.png)
-
  Age vs Fare (Scatter Plot)
-
-![Scatter Plot](images/scatter_plot.png)
 
 ---
 
