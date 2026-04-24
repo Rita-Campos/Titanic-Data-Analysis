@@ -114,7 +114,6 @@ The dataset required preprocessing before analysis:
 
  📁 Project Structure
 
-```
 titanic-data-analysis/
 │
 ├── data/
@@ -123,18 +122,16 @@ titanic-data-analysis/
 ├── notebooks/
 │   └── My_Data_Analysis_Project.ipynb
 │
-├── images/
+├── outputs/
+│   ├── titanic_clean.csv
+│   └── titanic_report_v2.xlsx
 │   ├── survival_by_sex.png
 │   ├── survival_by_class.png
 │   ├── fare_distribution.png
 │   ├── scatter_plot.png
 │
-├── outputs/
-│   ├── titanic_clean.csv
-│   └── titanic_report_v2.xlsx
-│
 └── README.md
-```
+
 
 ---
 
