@@ -81,7 +81,7 @@ The dataset required preprocessing before analysis:
 
 **Survival Rate by Sex**
 
-![survival-by-sex](outputs/survival_by_sex.png)
+![survival-by-sex](my_project/outputs/survival_by_sex.png)
 
 **Survival by Class and Sex**
 
